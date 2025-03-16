@@ -15,8 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter2\README.md">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
+    <None Include="Chapter2\Chapter2.md" />
   </ItemGroup>
 </Project>
