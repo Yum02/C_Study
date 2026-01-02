@@ -22,7 +22,7 @@
     <None Include="Chapter2\Chapter2.md" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter3\3-1\ex3-3.cpp" />
+    <ClCompile Include="Chapter3\3-2\ex3-6.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

@@ -1,0 +1,13 @@
+//discription: 유효 숫자 확인
+#include<stdio.h>
+
+int main(void)
+{
+	float ft = 1.234567890123456789;
+	double db = 1.234567890123456789;
+
+	printf("float: %.20f\n", ft);
+	printf("double: %.20f\n", db);
+
+	return 0;
+}
