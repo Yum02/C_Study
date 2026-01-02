@@ -17,4 +17,9 @@
   <ItemGroup>
     <None Include="Chapter2\Chapter2.md" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Chapter3\3-1\ex3-1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
