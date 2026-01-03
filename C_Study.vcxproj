@@ -21,6 +21,9 @@
   <ItemGroup>
     <None Include="Chapter2\Chapter2.md" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Chapter4\4-2\ex4-5.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
