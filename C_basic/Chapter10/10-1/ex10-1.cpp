@@ -16,4 +16,5 @@ int main(void)
 		printf("%5d", *(ary + i));
 	}
 	return 0;
+
 }
