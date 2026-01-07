@@ -19,10 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Chapter2\Chapter2.md" />
+    <None Include="C_basic\Chapter2\Chapter2.md" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter9\9-2\ex9-7.cpp" />
+    <ClCompile Include="C_basic\Chapter10\10-1\ex10-1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
