@@ -362,4 +362,22 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
+# Visual Studio
 .vs/
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+
+# C/C++ intermediate files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.log
+
+# Visual Studio user files
+*.vcxproj.user
