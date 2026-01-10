@@ -1,3 +1,9 @@
-﻿  ex11-3.cpp
-  LINK : C:\Users\sksjd\source\repos\Yum02\C_Study\x64\Debug\C_Study.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
-  C_Study.vcxproj -> C:\Users\sksjd\source\repos\Yum02\C_Study\x64\Debug\C_Study.exe
+﻿  ex12-2.cpp
+C:\Users\sksjd\source\repos\Yum02\C_Study\C_basic\Chapter12\12-1\ex12-2.cpp(5,16): error C2440: '초기화 중': 'const char [6]'에서 'char *'(으)로 변환할 수 없습니다.
+      C:\Users\sksjd\source\repos\Yum02\C_Study\C_basic\Chapter12\12-1\ex12-2.cpp(5,16):
+      문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\sksjd\source\repos\Yum02\C_Study\C_basic\Chapter12\12-1\ex12-2.cpp(7,12): error C2440: '=': 'const char [7]'에서 'char *'(으)로 변환할 수 없습니다.
+      C:\Users\sksjd\source\repos\Yum02\C_Study\C_basic\Chapter12\12-1\ex12-2.cpp(7,12):
+      문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
