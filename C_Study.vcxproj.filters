@@ -18,7 +18,10 @@
     <None Include="C_basic\Chapter2\Chapter2.md" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C_basic\Chapter12\12-1\ex12-2.c">
+    <ClCompile Include="C_basic\Chapter12\12-1\ex12-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C_basic\Chapter12\12-1\ex12-7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
