@@ -21,6 +21,11 @@
   <ItemGroup>
     <None Include="C_basic\Chapter2\Chapter2.md" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C_basic\Chapter15\15-2\ex15-7.c" />
+    <ClCompile Include="C_basic\Chapter15\15-2\ex15-8.c" />
+    <ClCompile Include="C_basic\Chapter15\15-2\ex15-9.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
