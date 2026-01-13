@@ -21,9 +21,6 @@
   <ItemGroup>
     <None Include="C_basic\Chapter2\Chapter2.md" />
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="C_basic\Chapter17\17-1\ex17-5.c" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

@@ -1,3 +1,2 @@
-﻿  ex17-2.c
-C:\Users\sksjd\source\repos\Yum02\C_Study\C_basic\Chapter17\17-1\ex17-2.c(24,2): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+﻿  ex17-8.c
   C_Study.vcxproj -> C:\Users\sksjd\source\repos\Yum02\C_Study\x64\Debug\C_Study.exe
