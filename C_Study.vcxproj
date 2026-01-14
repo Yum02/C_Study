@@ -22,12 +22,6 @@
     <None Include="C_basic\Chapter2\Chapter2.md" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C_basic\Chapter18\18-1\ex18-6.c" />
-    <ClCompile Include="C_basic\Chapter18\18-1\ex18-7.c" />
-    <ClCompile Include="C_basic\Chapter18\18-2\ex18-8.c" />
-    <ClCompile Include="C_basic\Chapter18\18-2\ex18-9.c" />
-  </ItemGroup>
-  <ItemGroup>
     <Text Include="a.txt" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

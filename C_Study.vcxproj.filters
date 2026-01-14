@@ -18,20 +18,6 @@
     <None Include="C_basic\Chapter2\Chapter2.md" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C_basic\Chapter18\18-1\ex18-6.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="C_basic\Chapter18\18-1\ex18-7.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="C_basic\Chapter18\18-2\ex18-8.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="C_basic\Chapter18\18-2\ex18-9.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <Text Include="a.txt" />
   </ItemGroup>
 </Project>
