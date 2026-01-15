@@ -21,7 +21,7 @@
     <Text Include="a.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C_basic\Chapter18\18-2\ex18-10.c">
+    <ClCompile Include="C_basic\Chapter18\18-2\ex18-11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
